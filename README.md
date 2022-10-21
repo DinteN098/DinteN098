@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DinteN098
+- 👋 Hi, I’m Selvin
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning javascript (beginner)
 - 💞️ I’m looking to collaborate on any project
