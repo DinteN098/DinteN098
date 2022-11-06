@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selvin
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning javascript (beginner)
+- 🌱 I’m currently learning Python (beginner)
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me selvincastillo856@gmail.com
 
