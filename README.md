@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Selvin
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Python (beginner)
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me selvincastillo856@gmail.com
+i like computer
 
 <!---
 DinteN098/DinteN098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
