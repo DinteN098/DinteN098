@@ -1,6 +1,3 @@
-i like computer
+# Hello there!
 
-<!---
-DinteN098/DinteN098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Selvin Castillo, a programmer, web developer, and student at Georgia State University.
